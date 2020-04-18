@@ -1,0 +1,150 @@
+body
+{
+  margin: 0;
+  font-family: sans-serif;
+  text-align: center;
+}
+h1
+{
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color:#66BFBF;
+}
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  color:#66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+h3
+{
+  font-family: 'Merriweather', serif;
+  color:#11999E;
+}
+p{
+  font-family: 'Baloo Paaji 2', cursive;
+  font-size: 1.5rem;
+
+
+}
+.hello{
+      margin-top: 0;
+}
+.po
+{
+  margin-bottom: 50px;
+}
+.sub
+{
+  font-size: 25px;
+}
+.top-container
+{
+  background-color: #d4f8e8;
+  padding-top: 100px;
+  position: relative;
+}
+.top-cloud
+{
+  position: absolute;
+  right:300px;
+  top:50px
+}
+.bottom-cloud
+{
+  position: absolute;
+  bottom:300px;
+  left:300px;
+}
+.photography{
+  height:220px;
+  width:220px;
+  float:left;
+  margin-right: 30px;
+}
+.gif
+{
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+.gif2{
+  height:200px;
+  width:200px;
+  float:right;
+  margin-left: 30px;
+
+}
+a{
+  color:#11999E;
+}
+.skill-row
+{
+  width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.profilepic
+{
+  height:25%;
+  width:25%;
+  padding-top: 50px;
+}
+hr{
+border-top-style: dotted;
+border-bottom: 0;
+border-left: 0;
+border-right: 0;
+  border-width: thick;
+  border-color:grey;
+ width: 5%;
+
+
+
+}
+.bottom-container
+{
+  background-color: #66bfbf;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.copyright{
+  color: white;
+  font-size: 1rem;
+}
+.footer-link:hover
+{
+  color:white;
+
+
+}
+.footer-link{
+  padding-right: 15px;
+
+}
+.bot {
+	background:linear-gradient(to bottom, #83dcfc 5%, #54b3c2 100%);
+	background-color:#83dcfc;
+	border-radius:11px;
+	border:2px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:17px;
+	padding:13px 34px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+  margin-bottom: 30px;
+}
+.bot:hover {
+	background:linear-gradient(to bottom, #54b3c2 5%, #83dcfc 100%);
+	background-color:#54b3c2;
+}
+.bot:active {
+	position:relative;
+	top:1px;
+}
